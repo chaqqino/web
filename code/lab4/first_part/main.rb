@@ -1,3 +1,6 @@
+PATH_BALANCE = "balance.txt"
+DEFAULT_BALANCE = 100.0
+
 class CashMachine
     
     def self.initial 
